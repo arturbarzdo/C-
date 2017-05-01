@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1466269798 source:d:\c++\wojna\wojna.cpp
+	<iostream>
+	"wojna.h"
+	<windows.h>
+	<time.h>
+
+1466269798 d:\c++\wojna\wojna.h
+	<iostream>
+
+1466269828 source:d:\c++\wojna\main.cpp
+	<iostream>
+	"wojna.h"
+	<windows.h>
+	<time.h>
+
